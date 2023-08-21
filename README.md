@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML application for solving PDEs**
 
-- 🌱 I’m currently learning **Topology Optimization**
+- 🌱 I’m currently learning **jax**
 
 - 👨‍💻 All of my papers are available at [https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en)
 
