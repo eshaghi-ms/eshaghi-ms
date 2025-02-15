@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **ML application for solving PDEs**
 
-- 🌱 I’m currently learning **jax**
-
 - 👨‍💻 All of my papers are available at [https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en)
-
-- 💬 Ask me about **Matlab, Machine Learning**
 
 - 📫 How to reach me **eshaghi.khanghah@iop.uni-hannover.de**
 
